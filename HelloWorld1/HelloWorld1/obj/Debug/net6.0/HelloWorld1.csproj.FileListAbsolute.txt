@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net6.0\HelloWorld1.exe
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net6.0\HelloWorld1.deps.json
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net6.0\HelloWorld1.runtimeconfig.json
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net6.0\HelloWorld1.dll
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net6.0\ref\HelloWorld1.dll
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\bin\Debug\net6.0\HelloWorld1.pdb
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.AssemblyInfo.cs
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.dll
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\ref\HelloWorld1.dll
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.pdb
+C:\Users\suraj\source\repos\HelloWorld1\HelloWorld1\obj\Debug\net6.0\HelloWorld1.genruntimeconfig.cache
