@@ -1,0 +1,14 @@
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\bin\Debug\net6.0\FIndMaxiNo.exe
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\bin\Debug\net6.0\FIndMaxiNo.deps.json
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\bin\Debug\net6.0\FIndMaxiNo.runtimeconfig.json
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\bin\Debug\net6.0\FIndMaxiNo.dll
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\bin\Debug\net6.0\ref\FIndMaxiNo.dll
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\bin\Debug\net6.0\FIndMaxiNo.pdb
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.AssemblyInfo.cs
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.dll
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\ref\FIndMaxiNo.dll
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.pdb
+C:\Users\suraj\source\repos\FIndMaxiNo\FIndMaxiNo\obj\Debug\net6.0\FIndMaxiNo.genruntimeconfig.cache
