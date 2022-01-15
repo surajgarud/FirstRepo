@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b4a64b0-e9ca-4924-bb89-e6b47cbcb20c": {
+      "ProjectGuid": "0b4a64b0-e9ca-4924-bb89-e6b47cbcb20c",
+      "DisplayName": "LogicalProgram",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
