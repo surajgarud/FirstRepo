@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87b4d3bf-31bf-44a5-b6e2-1d225d42eafe": {
+      "ProjectGuid": "87b4d3bf-31bf-44a5-b6e2-1d225d42eafe",
+      "DisplayName": "DataStructure",
+      "ColorIndex": 0
+    },
+    "424b3690-c82b-414d-8b05-a461bd186999": {
+      "ProjectGuid": "424b3690-c82b-414d-8b05-a461bd186999",
+      "DisplayName": "QueueUsingLinkedList",
+      "ColorIndex": 1
+    },
+    "f28fb66a-a285-4aaf-943f-1f2c76f13648": {
+      "ProjectGuid": "f28fb66a-a285-4aaf-943f-1f2c76f13648",
+      "DisplayName": "StackusingLinkedList",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

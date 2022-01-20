@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\bin\Debug\net6.0\StackusingLinkedList.exe
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\bin\Debug\net6.0\StackusingLinkedList.deps.json
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\bin\Debug\net6.0\StackusingLinkedList.runtimeconfig.json
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\bin\Debug\net6.0\StackusingLinkedList.dll
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\bin\Debug\net6.0\ref\StackusingLinkedList.dll
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\bin\Debug\net6.0\StackusingLinkedList.pdb
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.AssemblyInfo.cs
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.dll
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\ref\StackusingLinkedList.dll
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.pdb
+C:\Users\suraj\source\repos\DataStructure\StacksingLinkedList\obj\Debug\net6.0\StackusingLinkedList.genruntimeconfig.cache
