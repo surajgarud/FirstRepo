@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\bin\Debug\net6.0\RegexProblem.exe
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\bin\Debug\net6.0\RegexProblem.deps.json
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\bin\Debug\net6.0\RegexProblem.runtimeconfig.json
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\bin\Debug\net6.0\RegexProblem.dll
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\bin\Debug\net6.0\ref\RegexProblem.dll
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\bin\Debug\net6.0\RegexProblem.pdb
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.AssemblyInfo.cs
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.dll
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\ref\RegexProblem.dll
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.pdb
+C:\Users\suraj\source\repos\RegexProblem\RegexProblem\obj\Debug\net6.0\RegexProblem.genruntimeconfig.cache
